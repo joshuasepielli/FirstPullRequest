@@ -22,7 +22,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Bai, Yan
 
-- [x] Basu, Debroop making this change to @joshuasepielli fork :smile:
+- [x] Basu, Debroop (debasu made this change to @joshuasepielli fork :smile:)
 
 - [ ] Borelli, Marisa
 
