@@ -22,7 +22,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Bai, Yan
 
-- [ ] Basu, Debroop
+- [X] Basu, Debroop (@debasu making this change as part of Assignment B Part II :smile:)
 
 - [ ] Borelli, Marisa
 
